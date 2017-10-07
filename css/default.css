@@ -1,0 +1,10 @@
+*{ font-weight:"微软雅黑"}
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.rank_list th{ text-align:center;}
